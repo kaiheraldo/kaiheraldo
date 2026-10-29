@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Dannica, pero puedes llamarme Kai 🌸
+¡Hola! 👋 Soy Dannica, pero puedes llamarme Kai 🌴
 
 📍 Madrid, España 🇪🇸
 

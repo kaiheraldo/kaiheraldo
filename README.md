@@ -26,8 +26,6 @@ I'm from the Philippines 🇵🇭 y actualmente estoy aprendiendo Inteligencia A
 
 🧠 Claude y otras herramientas de IA
 
-📝 Markdown
-
 🚀 Actualmente aprendiendo | Currently learning
 
 I'm learning how to use Git and GitHub, trabajar en equipo y explorar cómo aplicar la Inteligencia Artificial a situaciones de la vida real.

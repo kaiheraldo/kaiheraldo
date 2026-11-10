@@ -12,11 +12,14 @@ I'm originally from the Philippines and currently based in Madrid, Spain. I'm st
 
 I have an academic background in Accounting and professional experience in Malta. I'm now transitioning into the technology field with a particular interest in Artificial Intelligence and innovation.
 
+
 ## Education & Background
 
-- **Accounting** — Academic background.
-- **International Experience** — Lived and worked in Malta.
-- **Artificial Intelligence** — Currently studying at Factoría F5.
+[![Accounting](https://img.shields.io/badge/Accounting-236B68?style=for-the-badge)](https://en.wikipedia.org/wiki/Accounting)
+
+[![International Experience](https://img.shields.io/badge/International_Experience-C87558?style=for-the-badge)](https://www.visitmalta.com/)
+
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-236B68?style=for-the-badge)](https://factoriaf5.org/)
 
 ## Technologies & Tools
 

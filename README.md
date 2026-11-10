@@ -4,44 +4,55 @@
 
 <br/>
 
-¡Hola! 👋 Soy Dannica, pero puedes llamarme Kai 🌴
+## About Me
 
-📍 Madrid, España 🇪🇸
+Welcome to my GitHub profile!
 
-¡Bienvenidos a mi perfil de GitHub!
+I'm originally from the Philippines and currently based in Madrid, Spain. I'm studying Artificial Intelligence at Factoría F5, developing my technical skills and exploring how technology can help solve real-world problems.
 
-I'm from the Philippines 🇵🇭 y actualmente estoy aprendiendo Inteligencia Artificial en Factoría F5. Me interesa descubrir cómo la tecnología puede ayudar a resolver problemas reales.
+I have an academic background in Accounting and international professional experience in Malta. I'm now transitioning into the technology field with a particular interest in Artificial Intelligence and innovation.
+
+## Education & Background
+
+- **Accounting** — Academic background.
+- **International Experience** — Lived and worked in Malta.
+- **Artificial Intelligence** — Currently studying at Factoría F5.
+
+## Technologies & Tools
+
+**Exploring and learning**
+
+[![Python](https://img.shields.io/badge/Python-236B68?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-C87558?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-236B68?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Claude](https://img.shields.io/badge/Claude-C87558?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Markdown](https://img.shields.io/badge/Markdown-236B68?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+
+## Currently Learning
+
+- Artificial Intelligence fundamentals.
+- Python programming.
+- Git and GitHub.
+- AI-powered tools and applications.
+- Collaborative software development.
+- Practical applications of AI in everyday life.
+
+## My Goals
+
+To continuously expand my knowledge, strengthen my technical abilities, and contribute to meaningful technology projects that create positive change.
+
+## Languages
+
+- English
+- Spanish (currently improving).
+
+## Let's Connect
+
+I'm always open to learning, exchanging ideas, and connecting with people interested in Artificial Intelligence and technology.
+
+[![GitHub](https://img.shields.io/badge/Visit_My_GitHub-236B68?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiheraldo)
 
 
-👩‍💻 Sobre mí | About me
-
-🎓 I studied Contabilidad.
-
-🌍 He vivido y trabajado en Malta.
-
-🤖 I'm exploring the world of Inteligencia Artificial.
-
-🌱 Estoy aprendiendo nuevas tecnologías y desarrollando mis habilidades digitales.
-
-💬 I speak English y estoy mejorando mi español poco a poco.
-
-
-🛠️ Tecnologías y herramientas | Tools I'm learning
-
-🐙 Git y GitHub
-
-🤖 Inteligencia Artificial (AI)
-
-🧠 Claude y otras herramientas de IA
-
-🚀 Actualmente aprendiendo | Currently learning
-
-I'm learning how to use Git and GitHub, trabajar en equipo y explorar cómo aplicar la Inteligencia Artificial a situaciones de la vida real.
-
-
-🎯 Mi objetivo | My goal
-
-Seguir aprendiendo, desarrollar nuevas habilidades y participar en proyectos tecnológicos que puedan hacer una diferencia positiva.
 
 
 📫 Let's connect!

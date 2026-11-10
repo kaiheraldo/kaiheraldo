@@ -17,9 +17,10 @@ I have an academic background in Accounting and professional experience in Malta
 
 [![Accounting](https://img.shields.io/badge/Accounting-236B68?style=for-the-badge)](https://en.wikipedia.org/wiki/Accounting)
 
-[![International Experience](https://img.shields.io/badge/International_Experience-C87558?style=for-the-badge)](https://www.visitmalta.com/)
+[![Legal & Administrative Experience](https://img.shields.io/badge/Legal_%26_Administrative_Experience-C87558?style=for-the-badge)](https://en.wikipedia.org/wiki/Executive_assistant)
 
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-236B68?style=for-the-badge)](https://factoriaf5.org/)
+
 
 ## Technologies & Tools
 

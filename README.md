@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kai-banner.png" width="100%" alt="KAI - Aspiring AI Developer" />
+  <img src="./a_clean_minimalist_graphic_design_logo_like_bann.png" width="100%" alt="KAI - Aspiring AI Developer" />
 </div>
 
 <br/>

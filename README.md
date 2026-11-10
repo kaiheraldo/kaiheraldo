@@ -48,7 +48,7 @@ To continuously expand my knowledge, strengthen my technical abilities, and cont
 ## Languages
 
 - English
-- Spanish (currently improving).
+- Spanish (currently improving)
 
 ## Let's Connect
 

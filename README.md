@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./kai-banner.png" width="100%" alt="KAI - Aspiring AI Developer" />
+</div>
+
+<br/>
+
 ¡Hola! 👋 Soy Dannica, pero puedes llamarme Kai 🌴
 
 📍 Madrid, España 🇪🇸

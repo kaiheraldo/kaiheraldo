@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 I'm originally from the Philippines and currently based in Madrid, Spain. I'm studying Artificial Intelligence at Factoría F5, developing my technical skills and exploring how technology can help solve real-world problems.
 
-I have an academic background in Accounting and international professional experience in Malta. I'm now transitioning into the technology field with a particular interest in Artificial Intelligence and innovation.
+I have an academic background in Accounting and professional experience in Malta. I'm now transitioning into the technology field with a particular interest in Artificial Intelligence and innovation.
 
 ## Education & Background
 
